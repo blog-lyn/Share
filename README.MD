@@ -37,3 +37,11 @@
 
 >  使用amazon 免费云服务器科学上网：
 >  https://segmentfault.com/a/1190000003101075
+
+
+# 工作学习方法分享：
+
+## PDCA循环品质管理循环（Plan-Do-Check-Action） 
+
+> 不想老是因为犯相同的错误被老板骂？看看这个 
+> https://zh.wikipedia.org/wiki/PDCA
