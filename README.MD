@@ -12,7 +12,16 @@
 ### 环境配置
 
 
-### Js自动化脚本模块（gulp，grunt，yeoman）
+### Js自动化脚本模块（gulp，Webpack，  grunt，yeoman, Sea.js[国产]）
+
+>  grunt是前端工程化的先驱
+
+>  gulp更自然基于流的方式连接任务
+
+>  Webpack最年轻，擅长用于依赖管理，配置稍较复杂
+
+>  推荐使用Gulp，Gulp基于nodejs中stream，效率更好语法更自然,不需要编写复杂的配置文件
+
 
 #### gulp 
 
