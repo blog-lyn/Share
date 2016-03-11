@@ -12,7 +12,7 @@
 ### 环境配置
 
 
-### Js自动化脚本模块（gulp，Webpack，  grunt，yeoman, Sea.js[国产]）
+### Js自动化脚本模块（gulp，Webpack，grunt，yeoman, Sea.js(国产))
 
 >  grunt是前端工程化的先驱
 
@@ -25,7 +25,7 @@
 
 #### gulp 
 
-> Youtube 视频介绍： 
+> Youtube 学习视频（11部 8min左右一部）： 
 > https://www.youtube.com/watch?v=wNlEK8qrb0M&list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos
 
 ####  grunt , yeoman, bower
