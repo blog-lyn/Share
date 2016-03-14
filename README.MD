@@ -7,6 +7,7 @@
 
 ##  Javascripts 相关：
 
+
 ##  Node.js  
 
 ### 环境配置
@@ -30,12 +31,26 @@
 
 ####  grunt , yeoman, bower
 
+Grunt:
+> https://www.youtube.com/watch?v=TMKj0BxzVgw
+
 > Yeoman自动构建js项目 
 > http://blog.fens.me/nodejs-yeoman-intro/
 
+#### Webpack
+
+> https://www.youtube.com/watch?v=9kJVYpOqcVU
+
 ### Css（bootStrap less sass ）
 
+#### bootStrap
+
+bootStrap 中文文档
+> http://v3.bootcss.com/css/
+
 ##  Mobile webApp 相关：
+
+### Angular.js
 
 ### iOnic
 
@@ -45,7 +60,15 @@
 #### 快速开始几个介绍的视频
 >  https://www.youtube.com/watch?v=C-UwOWB9Io4
 
+## 工具篇：
+
+>  随机生成Json数据
+>  https://www.mockaroo.com/
+
 ## Github  开源代码 
+
+### github 中文文档（廖雪峰）
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 ## 科学上网工具教程
 
