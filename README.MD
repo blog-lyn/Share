@@ -7,6 +7,11 @@
 
 ##  Javascripts 相关：
 
+### JavaScript 标准参考教程（alpha）作者: 阮一峰
+>   http://javascript.ruanyifeng.com/
+
+###  ES6/7 中文文档 
+>   http://es6.ruanyifeng.com/
 
 ##  Node.js  
 
@@ -62,14 +67,14 @@ bootStrap 中文文档
 
 ## 工具篇：
 
-### MindMap  Coggle（画图）
+### MindMap  Coggle（画图 ：D）
 > https://coggle.it
 
 
 ###  随机生成Json数据
 >  https://www.mockaroo.com/
 
- 
+
 
 
 ## Github  开源代码 
