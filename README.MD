@@ -62,8 +62,15 @@ bootStrap 中文文档
 
 ## 工具篇：
 
->  随机生成Json数据
+### MindMap  Coggle（画图）
+> https://coggle.it
+
+
+###  随机生成Json数据
 >  https://www.mockaroo.com/
+
+ 
+
 
 ## Github  开源代码 
 
