@@ -68,6 +68,9 @@ bootStrap 中文文档
 #### 快速开始几个介绍的视频
 >  https://www.youtube.com/watch?v=C-UwOWB9Io4
 
+#### 3个小时
+>  https://www.youtube.com/watch?v=tGDmUFBiUV0
+
 ## 工具篇：
 
 ### MindMap  Coggle（画图 ：D）
