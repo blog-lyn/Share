@@ -57,8 +57,8 @@ bootStrap 中文文档
 
 ### Angular.js
 
-> AngularJS Fundamentals In 60-ish Minutes
-> https://www.youtube.com/watch?v=i9MHigUZKEM
+#### AngularJS Fundamentals In 60-ish Minutes
+>  https://www.youtube.com/watch?v=i9MHigUZKEM
 
 ### iOnic
 
