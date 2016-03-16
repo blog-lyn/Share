@@ -57,6 +57,9 @@ bootStrap 中文文档
 
 ### Angular.js
 
+> AngularJS Fundamentals In 60-ish Minutes
+> https://www.youtube.com/watch?v=i9MHigUZKEM
+
 ### iOnic
 
 #### 官方的文档（Css模块）
@@ -84,6 +87,9 @@ bootStrap 中文文档
 
 ### github 中文文档（廖雪峰）
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+### git文档：
+> http://gitref.org/zh/branching/#branch
 
 ## 科学上网工具教程
 
